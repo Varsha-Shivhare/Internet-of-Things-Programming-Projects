@@ -1,4 +1,4 @@
- 
+
 # Internet of Things Programming Projects
 
 <a href="https://www.packtpub.com/application-development/internet-things-programming-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789134803 "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10624_MockupCover.png" alt="Internet of Things Programming Projects" height="256px" align="right"></a>
